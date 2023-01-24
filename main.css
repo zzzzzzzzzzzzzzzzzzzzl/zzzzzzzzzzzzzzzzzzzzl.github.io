@@ -139,7 +139,7 @@ border-radius: 100vh;
 transition: 1s;}
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropdown:hover .dropbtn {background-color: #3e8e41;
+  .dropdown:hover .dropbtn {background-color: #db8e8e;
 transition: 1s;}
 
 /* @media only screen and ( max-width: 60vh) {
