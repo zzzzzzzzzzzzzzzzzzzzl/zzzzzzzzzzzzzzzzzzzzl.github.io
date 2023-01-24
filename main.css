@@ -29,7 +29,7 @@
 }
 
 .header a{
-    padding: 25vh;
+    padding: 2vh;
     color:#FFFFFF;
     text-decoration: none;
     font-size: 30px;
@@ -47,26 +47,16 @@
     background-color: hsl(357, 72%, 76%); ;
     color: white;
     text-align: center;
-    padding: 80px;
+    padding-top: 80px;
     bottom: 0;
+
+    padding-bottom: 30px;
     
 }
 .empty{
   padding: 100px;
 }
-.content{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background-color: hsl(0, 0%, 100%);;
-  padding:30px;
-  width: 100%;
-  height: 110%;
-  font-size: 25px;
-}
-.content div{
-    padding :20px;
-}
+
 
 /* Dropdown Button */
 .dropbtn {
@@ -81,6 +71,7 @@
   }
 .dropdown-background{
     background-color: hsl(357, 100%, 82%);
+    display: flex;
 
 }
   
@@ -110,8 +101,35 @@
     text-decoration: none;
     display: block;
     
-
   }
+
+  .dropdown-row{
+    margin:auto;
+
+   
+    gap :80px;
+  }
+.content{
+  margin:auto;
+  padding:150px;
+  display: flex;
+  gap :80px;
+}
+.content-img{
+
+
+}
+.content-text{
+  width :500px;
+}
+#photo-of-me{
+
+ 
+border-radius: 100vh;
+  
+
+
+}
   
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {background-color: #ddd;}
