@@ -1,0 +1,42 @@
+3:23 pm 23/01/2023
+
+What is my site's primary purpose?
+
+	blog for sprint reflections
+
+Who is my audience? (is it kids, adults, academics)?
+
+	dont really know, Im not sure if this will be somthing that is more long term or if I will never look at this again once it is done. maybe ill host some js games on there lioke the chess game that im building though.
+	bring more certinty to yuor writing, stop using ums and aahhs and stop the word like the word like just means that what you are saying has no value becuase it needs to be "like" somthing else and cant stand on its own.
+	stop trying to be metaphorical you just confuse yourself, make your speech clearer more structured more certain stop saying i think, be more binary some things are true or false make up your mind on a problem and stick with it
+	if you dont know, say i dont know, dont say maybe , I think or probably, just yes or no, good or bad.
+
+	I dont know who the audince is.
+
+How will I build my site to support their user experience?
+
+	the website will be very simple, mostly just text, there will be a bar at the top where you can anvigate the pages.
+	If im going to use it to put my reflections, I should make my reflections consise easy to read, and funny.
+
+Wireframe - can I draw my site layout on paper? Draw it!
+
+What will my site layout look like on a mobile phone? On a tablet? On a desktop?
+
+	I will make the website responsive. 
+	though I think I will just make tablet and phone the same.
+What other directories do I need (e.g. images)? Where do I put that directory?
+	
+	the root directory(if im using that word right) contains all the files and folders for the website.
+	blog directory
+	js directory
+	css directory
+	images directory
+	which would all sit inside the root directory.
+
+
+Do I also want the style to be applied to all of my blog entries?
+
+	assuming that this is refering to the css .
+	I will use 1 css file, unless I find a better practice for it.
+3:50 pm 23/01/2023
+
