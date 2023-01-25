@@ -22,6 +22,7 @@ var html=`<div class="header">
         <!-- tech -->
         <button class="dropbtn">Tech</button> 
         <div class="dropdown-content">
+        <a href="${s}tech/1.html">The Story of Te Houtaewa</a>
         </div>
       </div>
 
@@ -39,6 +40,7 @@ var html=`<div class="header">
                 <!-- sprints -->
                 <button class="dropbtn">Sprints</button>
                 <div class="dropdown-content">
+                <a href="${s}sprints/1.html">Week 1</a>
 
                 </div>
               </div>
