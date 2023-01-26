@@ -22,7 +22,7 @@ var html=`<div class="header">
         <!-- tech -->
         <button class="dropbtn">Tech</button> 
         <div class="dropdown-content">
-        <a href="${s}tech/1.html">The Story of Te Houtaewa</a>
+        <a href="${s}tech/1.html">Inline vs Inline-block</a>
         </div>
       </div>
 
@@ -41,6 +41,7 @@ var html=`<div class="header">
                 <button class="dropbtn">Sprints</button>
                 <div class="dropdown-content">
                 <a href="${s}sprints/1.html">Week 1</a>
+                <a href="${s}sprints/2.html">Week 2</a>
 
                 </div>
               </div>

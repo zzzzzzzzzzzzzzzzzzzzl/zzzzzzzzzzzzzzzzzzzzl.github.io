@@ -126,10 +126,17 @@
 
  
 border-radius: 100vh;
-  
 
 
 }
+
+.amano{
+  display: flex;  
+  justify-content: center;  
+  align-items: center;  
+  padding-top :100px;
+}
+
   
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {background-color: #ddd;}
