@@ -1,0 +1,25 @@
+
+	What is Javascript, HTML and CSS:
+so a website has javascript, html and css. Javascript is the mind, html is the body and css is the soul. 
+
+html is like the box that everything else goes in that box you can create smaller boxes.
+
+css is to make the website look good and to make the ui easier to navigate.
+
+and javascript controls the logic and you can manipulate the html elemetns with it.
+
+	what is control flow and loops:
+control flow is kind of like a flowing river and parts of the river can be blocked or unblocked these would be our "if statments", or parts of the river where the water kind of flows around in a circle and these would be our for loops i guess. But yea, the control flow is basicaly the path that the program takes and which lines of code get run.
+
+
+what is a loop?A cynical TV weatherman finds himself reliving the same day over and over again.
+a loop is a section of code that will be repeated x amount of times or while a certain condition is true.
+
+	what is a DOM:
+document object model. The document is like a copy of all your html and the changes that you make to the document object will also be made to your html.
+to access a element from the document object you would use a function like "document.getelementbyid()" or if you wanted to add an element you would use the Node.appendChild() function.
+
+
+
+
+
