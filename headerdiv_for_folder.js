@@ -25,6 +25,7 @@ var html=`<div class="header">
         <a href="${s}tech/1.html">Inline vs Inline-block</a>
         <a href="${s}tech/2.html">HTML,CSS and JS</a>
         <a href="${s}tech/3.html">Code readability</a>
+        <a href="${s}tech/4.html">Problem solving</a>
         </div>
       </div>
 
