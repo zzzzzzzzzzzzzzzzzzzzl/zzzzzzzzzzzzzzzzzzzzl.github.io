@@ -47,6 +47,7 @@ var html=`<div class="header">
                 <a href="${s}sprints/1.html">Week 1</a>
                 <a href="${s}sprints/2.html">Week 2</a>
                 <a href="${s}sprints/3.html">Week 3</a>
+                <a href="${s}sprints/4.html">Week 4</a>
 
                 </div>
               </div>
