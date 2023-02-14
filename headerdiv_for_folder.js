@@ -52,6 +52,17 @@ var html=`<div class="header">
                 </div>
               </div>
 
+
+              <div class="dropdown">
+                <!-- games -->
+                <button class="dropbtn">lil games</button>
+                <div class="dropdown-content">
+                <a href="${s}games/chess/html.html">Chess</a>
+          
+
+                </div>
+              </div>
+
 </div>
 </div>
 </div>
