@@ -23,7 +23,7 @@ var html=`<div class="header">
 
               <div class="dropdown">
                 <!-- games -->
-                <button class="dropbtn">lil games</button>
+                <button class="dropbtn">projects</button>
                 <div class="dropdown-content">
                 <a href="${s}games/chess/html.html">Chess</a>
           
