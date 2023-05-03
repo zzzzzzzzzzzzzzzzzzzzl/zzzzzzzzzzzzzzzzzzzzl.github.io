@@ -33,7 +33,7 @@ var html=`<div class="header">
                 <button class="dropbtn">Links</button>
                 <div class="dropdown-content">
                 <a href="https://www.linkedin.com/in/james-edwards-692a08273/">Linkedin</a>
-                <a href="./Grey & white CV.pdf" target="_blank">CV</a>
+                <a href="./Grey & white a4 CV.pdf" target="_blank">CV</a>
 
                 </div>
               </div>
